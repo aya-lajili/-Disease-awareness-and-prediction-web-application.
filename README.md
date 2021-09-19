@@ -1,0 +1,2 @@
+# -Disease-awareness-and-prediction-web-application.
+Dans le cadre du stage d’été avec Talan Tunisie, il nous a été demandé de développer une application web pour la prédiction des maladies et la sensibilisation à partir d’un calendrier intelligent pour recommander un plan d’activites afin que l’utilisateur ait un meilleur style de vie et de réduire les risques de maladies et finalement un chabot pour la santé mentale.
